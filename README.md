@@ -30,3 +30,7 @@ Laboratory works for the algorithms and data structures course
 ### AVL-tree (unfinished)
 * [code](https://github.com/inter-malchik/ITMO_IS21-Algorithms-and-Data-structures-1-course/tree/main/laboratory%20work%207)
 * [statements](https://github.com/inter-malchik/ITMO_IS21-Algorithms-and-Data-structures-1-course/blob/main/laboratory%20work%207/problems7.pdf)
+
+### Graphs: basic concepts and BFS
+* [code](https://github.com/inter-malchik/ITMO_IS21-Algorithms-and-Data-structures-1-course/tree/main/laboratory%20work%208)
+* [statements](https://github.com/inter-malchik/ITMO_IS21-Algorithms-and-Data-structures-1-course/blob/main/laboratory%20work%207/problems8.pdf)
