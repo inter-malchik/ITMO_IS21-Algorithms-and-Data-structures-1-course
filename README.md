@@ -33,4 +33,4 @@ Laboratory works for the algorithms and data structures course
 
 ### Graphs: basic concepts and BFS
 * [code](https://github.com/inter-malchik/ITMO_IS21-Algorithms-and-Data-structures-1-course/tree/main/laboratory%20work%208)
-* [statements](https://github.com/inter-malchik/ITMO_IS21-Algorithms-and-Data-structures-1-course/blob/main/laboratory%20work%207/problems8.pdf)
+* [statements](https://github.com/inter-malchik/ITMO_IS21-Algorithms-and-Data-structures-1-course/blob/main/laboratory%20work%208/problems8.pdf)
