@@ -42,3 +42,7 @@ Laboratory works for the algorithms and data structures course
 ### Minimum spanning tree
 * [code](https://github.com/inter-malchik/ITMO_IS21-Algorithms-and-Data-structures-1-course/tree/main/laboratory%20work%2010)
 * [statements](https://github.com/inter-malchik/ITMO_IS21-Algorithms-and-Data-structures-1-course/blob/main/laboratory%20work%2010/problems10.pdf)
+
+### Shortest paths in graphs
+* [code](https://github.com/inter-malchik/ITMO_IS21-Algorithms-and-Data-structures-1-course/tree/main/laboratory%20work%2011)
+* [statements](https://github.com/inter-malchik/ITMO_IS21-Algorithms-and-Data-structures-1-course/blob/main/laboratory%20work%2011/problems11.pdf)
