@@ -49,4 +49,4 @@ Laboratory works for the algorithms and data structures course
 
 ### Dynamic programming
 * [code](https://github.com/inter-malchik/ITMO_IS21-Algorithms-and-Data-structures-1-course/tree/main/laboratory%20work%2012)
-* [statements](https://github.com/inter-malchik/ITMO_IS21-Algorithms-and-Data-structures-1-course/blob/main/laboratory%20work%2011/problems12n.pdf)
+* [statements](https://github.com/inter-malchik/ITMO_IS21-Algorithms-and-Data-structures-1-course/blob/main/laboratory%20work%2012/problems12n.pdf)
